@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="9.0" transformSequenceNumber="3">
+  <directoryPresets config="E:/java_project/calculator_project_new/out/artifacts/calculator_project_new_jar" />
+  <application name="Calc" distributionSourceDir="C:/Users/Administrator/Desktop" />
+  <executable name="Javaproject" wrapperType="embed" executableMode="gui" />
+  <java mainClass="source.FrameMain202209160316" minVersion="20">
+    <classPath>
+      <archive location="E:/java_project/calculator_project_new/out/artifacts/calculator_project_new_jar/calculator_project_new_jar.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
